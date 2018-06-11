@@ -1,4 +1,4 @@
-# the-c-language/swapTwoNumbers/
+# the-c-language/swap_two_numbers/
   
   This simple C program requests input from the user
   (two numbers), scans the numbers (using scanf() function)
